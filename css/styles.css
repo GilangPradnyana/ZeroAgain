@@ -47,9 +47,47 @@ header h1 {
 .article-1-text {
     color: #000000;
     height: 250px;
-    border: 1px solid;
 }
 .article-1-text p {
+    padding: 10px 5px;
+    font-family: 'Monserrat';
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+/* Article-2 */
+
+/* Article-2-tittle */
+.article-2-tittle {
+    background-color: #76ABAE;
+    text-align: center;
+}
+.article-2-tittle h2 {
+    color: #EEEEEE;
+    padding: 12px;
+    font-size: 30px;
+    font-family: 'Monserrat';
+}
+
+/* Article-2-writter */
+.article-2-writter {
+    background-color: #344955;
+    color: #EEEEEE;
+}
+.article-2-writter h3 {
+    padding: 10px 5px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* Article-2-Text */
+.article-2-text {
+    color: #000000;
+    height: 250px;
+}
+.article-2-text p {
     padding: 10px 5px;
     font-family: 'Monserrat';
     text-align: justify;
