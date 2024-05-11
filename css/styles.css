@@ -4,11 +4,54 @@
 
 /* Header */
 header {
-    padding: 10px;
-    border: 1px solid;
     text-align: center;
     background-color: #222831;
     color: #EEEEEE;
+}
+header h1 {
+    padding: 10px;
     font-family:"Monserrat" ;
     font-size: 40px;
+}
+
+/* Article-1 */
+.article-1 {
+    margin: -2px 0px;
+}
+
+/* Article-1-tittle */
+.article-1-tittle {
+    background-color: #76ABAE;
+    text-align: center;
+}
+.article-1-tittle h2 {
+    color: #EEEEEE;
+    padding: 12px;
+    font-size: 30px;
+    font-family: 'Monserrat';
+}
+
+/* Article-1-Writter */
+.article-1-writter {
+    background-color: #344955;
+    color: #EEEEEE;
+}
+.article-1-writter h3 {
+    padding: 10px 5px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* Article-1-Text */
+.article-1-text {
+    color: #000000;
+    height: 250px;
+    border: 1px solid;
+}
+.article-1-text p {
+    padding: 10px 5px;
+    font-family: 'Monserrat';
+    text-align: justify;
+    font-size: 20px;
 }
